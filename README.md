@@ -28,3 +28,10 @@ Prototype refinements will be developed on a separate branch and evaluated befor
 **Should the prototype be integrated?** Yes. The enhancement adds individual-level information without changing the core metric, and it addresses the biggest weakness of the original idea.
 
 **Feedback that would influence the decision:** Coaches saying the fatigue score is easy to read and useful before games, medical staff confirming the wearable data is reliable, and the front office confirming players consent to data sharing. If decision makers found the score confusing or the data unreliable, I would hold off.
+
+## Reflection on Innovation and Version Control
+**How branches support low-risk experimentation:** Branches let analytics teams test changes without touching the main project. If the prototype had failed, the working version would have stayed intact, so experimenting costs almost nothing.
+
+**How GitHub helps ideas gain traction with decision makers:** GitHub keeps a visible, documented history of how an idea was proposed, tested, and evaluated. Decision makers can review the reasoning at any point, which builds trust and makes it easier to give feedback and approve adoption.
+
+**How this workflow aligns with Chapter 7:** The README was the creative phase, the prototype branch was the prototyping phase, the evaluation section was the engagement phase, and merging into main was the build phase. Version control makes each innovation phase visible and reversible.
