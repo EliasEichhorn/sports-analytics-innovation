@@ -16,6 +16,11 @@ A coach sees a simple dashboard before each game showing green/yellow/red fatigu
 ## Connection to Chapter 7
 This idea is in the **creative phase**. It is a new concept with a defined problem, but it has not been tested or shown to decision makers yet.
 
+## Prototype Enhancement
+**What is being changed:** Add a second data source, player sleep and recovery data from wearables, to refine the fatigue score.
+
+**Why this could improve decision-making:** Schedule-based fatigue (back-to-backs, travel) misses individual differences. Recovery data would let coaches rest the players who actually need it, not just those on a tough schedule.
+
 ## Next Steps
 Prototype refinements will be developed on a separate branch and evaluated before adoption.
 
