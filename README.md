@@ -18,3 +18,8 @@ This idea is in the **creative phase**. It is a new concept with a defined probl
 
 ## Next Steps
 Prototype refinements will be developed on a separate branch and evaluated before adoption.
+
+## Prototype Evaluation
+**Should the prototype be integrated?** Yes. The enhancement adds individual-level information without changing the core metric, and it addresses the biggest weakness of the original idea.
+
+**Feedback that would influence the decision:** Coaches saying the fatigue score is easy to read and useful before games, medical staff confirming the wearable data is reliable, and the front office confirming players consent to data sharing. If decision makers found the score confusing or the data unreliable, I would hold off.
